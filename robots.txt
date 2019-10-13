@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chuxeisher.roobeelee.com/sitemap.xml
